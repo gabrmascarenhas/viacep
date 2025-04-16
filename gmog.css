@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+}
+#cep{
+    padding: 10px;
+    border: 10px solid black;
+}
+@media screen and (max-width: 330px){
+    input{
+        margin-left: 10px;
+    }
+    
+}
